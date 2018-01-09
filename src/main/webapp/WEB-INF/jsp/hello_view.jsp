@@ -10,7 +10,7 @@
     <div>
       <%
           {
-            java.lang.String answer = (java.lang.String)request.getAttribute("greeting");   
+            java.lang.String answer = (java.lang.String)request.getAttribute("greeting 2018-01-09");   
       %>
       <span><%=answer%></span>
       <%
